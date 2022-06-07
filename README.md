@@ -1,4 +1,4 @@
-# my_dev_env_configuration
+# my_dev_env_configuration_list
 
 由于工作流动以及学习，经常需要配置一些环境，每次需要去搜索会花费很长时间，故专门记录备忘
 
